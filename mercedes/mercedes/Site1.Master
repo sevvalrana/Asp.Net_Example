@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="mercedes.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Mercedes Benz A.Ş.</title> 
+    <link href="Style.css"  rel="stylesheet"/>   
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="header">
+        <div id="siyahSerit">
+            <div id="menu">
+                <div id="logo">mercedes benz a.ş.</div>
+                <ul>
+                    <li><a href="default.aspx">anasayfa</a></li> 
+                    <li><a href="hakkimizda.aspx">hakkımızda</a></li> 
+                    <li><a href="galeri.aspx">galeri</a></li>
+                    <li><a href="destek.aspx">destek</a></li>
+                    <li><a href="iletisim.aspx">iletişim</a></li>   
+                </ul>
+                <div id="ikonlar">
+                    <div class="kullaniciIkon">
+                        <a href="index.aspx"><img src="resimler/kullanici.png" /></a>
+                    </div>
+                    <div class="kullaniciIkon">
+                        <a href="siparis.aspx?durum=favori"><img src="resimler/favori.png" /></a>
+                    </div>
+                    <div class="kullaniciIkon">
+                        <a href="siparis.aspx?durum=sepet"><img src="resimler/sepet.png" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="sloganlar">
+            <div id="buyukSlogan">
+                web sitemize hoşgeldiniz
+            </div>
+            <div id="ortaSlogan">
+                Sizi galerimize de bekleriz
+            </div>
+            <div id="kucukSlogan">
+                arabalar ikiye ayrılır. Mercedes ve diğerleri. the best or nothing...
+            </div>
+        </div>
+        <div id="butonlar">
+            <a href="iletisim.aspx">bize ulaşın</a>
+            <a href="iletisim.aspx">rezervasyon</a>
+        </div>
+    </div>
+    <div id="bodies">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div id="footer">
+        <div id="copyRight">®ufuksa</div>
+    </div>
+    </form>
+</body>
+</html>

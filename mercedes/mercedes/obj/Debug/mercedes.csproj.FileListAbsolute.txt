@@ -1,0 +1,66 @@
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\ApplicationInsights.config
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\csc.exe
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\vbc.exe
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\mercedes.dll.config
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\mercedes.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\mercedes.pdb
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.Web.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.Web.xml
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\obj\Debug\mercedes.csprojResolveAssemblyReference.cache
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\obj\Debug\mercedes.dll
+C:\Users\Ogretmen\Desktop\mercedes\mercedes\obj\Debug\mercedes.pdb
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\ApplicationInsights.config
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\csc.exe
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\vbc.exe
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\mercedes.dll.config
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\mercedes.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\mercedes.pdb
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.Web.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.Web.xml
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\obj\Debug\mercedes.csprojResolveAssemblyReference.cache
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\obj\Debug\mercedes.dll
+C:\Users\Ogretmen\Desktop\Ufuk Şahin\mercedes\mercedes\obj\Debug\mercedes.pdb

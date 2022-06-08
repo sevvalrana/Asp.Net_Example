@@ -1,0 +1,300 @@
+﻿* {
+    margin:0;
+    padding:0;
+}
+#header {
+    width:100%;
+    height:600px;
+    background-image:url("resimler/govdeust.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:200px;
+}
+#siyahSerit {
+    width:100%;
+    height:60px;
+    background-color:rgba(0,0,0,0.5);
+    margin-bottom:30px;
+}
+#menu {
+    width:1200px;
+    height:60px;
+    margin:auto;
+}
+#menu #ikonlar{
+    width:120px;
+    height:60px;
+    float:right;
+}
+#menu #ikonlar .kullaniciIkon{
+    width:35px;
+    height:35px;
+    float:left;
+    margin-left:5px;
+    margin-top:13px;
+    margin-bottom:12px;
+}
+
+#logo{
+     width:300px;
+     line-height:60px;
+     font-size:24px;
+     font-weight:bold;
+     text-transform:uppercase;
+     color:white;
+     float:left;
+     text-shadow:3px 3px 3px #ccc;
+}
+#menu ul {
+     width:600px;
+     line-height:60px;
+     float:left;
+     list-style-type:none;
+     text-align:center;
+}
+#menu ul li {
+    display:inline-block;
+    line-height:30px;
+    padding-left:15px;
+    padding-right:15px;
+}
+#menu ul li a{
+    font-size:18px;
+    color:white;
+    text-transform:capitalize;
+    text-decoration:none;
+}
+#menu ul li::after {
+    content:'';
+    width:0;
+    height:3px;
+    background-color:#f90;
+    display:block;
+    margin:auto;
+    transition:0.5s;
+}
+ #menu ul li:hover::after {
+     width:100%;
+ }
+ #sloganlar{
+     width:1200px;
+     height:230px;
+     margin:auto;
+ }
+#buyukSlogan {
+    color:white;
+    font-size:60px;
+    text-transform:uppercase;
+    font-weight:bold;
+    line-height:100px;
+    text-shadow:3px 3px 3px #333;
+}
+#ortaSlogan {
+    color:white;
+    font-size:40px;
+    text-transform:uppercase;
+    font-weight:bold;
+    line-height:60px;
+    text-shadow:3px 3px 3px #333;
+}
+#kucukSlogan {
+    color:white;
+    font-size:20px;
+    text-transform:capitalize;
+    font-weight:bold;
+    line-height:60px;
+    background-color:rgba(0,0,0,0.6);
+    width:700px;
+    padding-left:5px;
+}
+#butonlar{
+    width:1200px;
+    line-height:80px;
+    margin:auto;
+    text-align:center;
+    margin-top:50px;
+}
+#butonlar a {    
+    line-height:60px;   
+    text-align:center;
+    color:white;
+    font-size:24px;
+    text-transform:capitalize;
+    text-decoration:none;
+    border:solid 1px #fff;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:40px;
+    padding-right:40px;
+    margin-right:20px;
+    font-weight:bold;
+}
+#butonlar a:hover {
+    background-color:rgba(255,169,0,0.5);
+}
+#bodies{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+#footer{
+    width:100%;
+    line-height:60px;
+    background-color:black;
+    text-align:center;
+}
+#copyRight {
+    color:white;
+    font-size:14px;
+    text-transform:capitalize;
+}
+#uyeGirisi{
+    width:400px;
+    height:220px;
+    margin:auto;
+    padding:20px;
+    border:solid 1px #f90;
+}
+.baslik{
+    width:100%;
+    line-height:40px;
+    background-color:#f90;
+    font-size:20px;
+    text-align:center;
+    text-transform:capitalize;
+    color:white;
+    font-weight:bold;
+    margin-bottom:20px;
+}
+.satir{
+    width:100%;
+    height:30px;
+    margin-bottom:10px;
+}
+.satirCins{
+    width:100%;
+    height:60px;
+    margin-bottom:10px;
+}
+.lbl{
+    width:150px;
+    line-height:30px;
+    font-size:15px;
+    font-weight:bold;    
+}
+.txt{
+    height:26px;
+    width:200px;
+    background-color:#eee;
+    border:solid 1px #888;
+    padding-left:5px;
+    font-size:15px;
+}
+.btn{
+    height:26px;
+    width:100px;
+    border:solid 1px #f90;
+    margin-right:10px;
+    background-color:rgba(255,169,0,0.5);
+    border-radius:5px;
+    text-transform:capitalize;
+}
+.satir a{
+    line-height:30px;
+    color:black;
+    font-size:15px;
+    text-decoration:none;
+    text-transform:capitalize;
+    margin-right:10px;
+}
+.satir a:hover {
+    text-decoration:underline;
+}
+.lblHata{
+    line-height:30px;
+    font-size:15px;
+    font-weight:bold; 
+    color:red;
+}
+#uyeOl{
+    width:700px;
+    height:480px;
+    margin:auto;
+    padding:20px;
+    border:solid 1px #f90;
+}
+#hataMesajOzet{
+    width:700px;
+    height:200px;
+    margin:auto;
+    padding:20px;
+    border:solid 1px #f90;
+    margin-top:30px;
+}
+#satilikUrunler{
+    width:1200px;
+    margin:auto;
+}
+.satilikUrun{
+    width:300px;
+    height:360px;
+    margin-left:49px;
+    margin-right:49px;
+    margin-bottom:50px;
+    border:solid 1px #aaa;
+    float:left;
+}
+.satilikUrun .foto{
+    width:300px;
+    height:210px;
+}
+.modelAdi{
+    width:300px;
+    line-height:30px;
+    text-align:center;
+    font-size:18px;
+    font-weight:bold;
+    text-transform:capitalize;
+}
+.eskiFiyat{
+    width:300px;
+    line-height:30px;
+    text-decoration:line-through;
+}
+.yeniFiyat{
+    width:300px;
+    line-height:30px;
+    text-align:right;    
+}
+.detay{
+    width:300px;
+    line-height:30px;
+    text-align:center;
+}
+.detay a{
+    text-decoration:none;
+    color:black;
+    text-transform:capitalize;
+    font-size:18px;
+    font-weight:bold;
+    border:solid 1px #000;
+    margin-left:5px;
+    margin-right:5px;
+    padding:5px;
+    border-radius:5px;
+}
+.detay a:hover{
+    text-decoration:underline;
+}
+.clear{
+    clear:both;
+}
+#urundetay{
+    width:800px;
+    height:640px;
+    margin:auto;
+}
+#leftSide,#rightSide{
+    width:400px;
+    height:580px;
+    float:left;
+}
